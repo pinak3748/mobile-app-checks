@@ -1,0 +1,11 @@
+{
+  "name": "mobile-app-checks",
+  "owner": { "name": "MobileKit", "url": "https://mobilekit.co" },
+  "plugins": [
+    {
+      "name": "mobile-app-checks",
+      "source": "./",
+      "description": "Free pre-release checks for mobile apps: accessibility, security and store-required settings."
+    }
+  ]
+}

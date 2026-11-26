@@ -1,0 +1,10 @@
+{
+  "name": "mobile-app-checks",
+  "version": "1.0.0",
+  "description": "Free pre-release checks for mobile apps: accessibility, security and store-required settings.",
+  "author": { "name": "MobileKit", "url": "https://mobilekit.co" },
+  "homepage": "https://mobilekit.co",
+  "repository": "https://github.com/pinak3748/mobile-app-checks",
+  "license": "MIT",
+  "keywords": ["mobile", "flutter", "react-native", "ios", "android", "accessibility", "security", "app-store", "google-play"]
+}
